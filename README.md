@@ -164,6 +164,6 @@ The results demonstrate that intelligent optimization can significantly reduce t
 
 ## 👨‍💻 Author
 
-**Aryan Rzjput**
+**Akshansh Shakya**
 B.Tech CSE
 Project: *Traffic Optimization using AI*
